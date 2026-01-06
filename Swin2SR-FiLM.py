@@ -2,7 +2,7 @@
 Author: xiaoniu
 Date: 2026-01-05 20:37:25
 LastEditors: xiaoniu
-LastEditTime: 2026-01-05 20:39:03
+LastEditTime: 2026-01-06 16:29:37
 Description: Swin2SR-FiLM: Swin2SR with FiLM conditioning. transfer 1D input to 2D feature map by FiLM layers and add it before up-sampling layers.
 '''
 # -----------------------------------------------------------------------------------
